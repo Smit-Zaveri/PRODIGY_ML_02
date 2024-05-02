@@ -27,6 +27,13 @@ pip install numpy pandas matplotlib scikit-learn
 - The cluster labels are added to the original dataset.
 - Finally, the clusters are visualized along with their centroids.
 
+## Video
+
+
+https://github.com/Smit-Zaveri/PRODIGY_ML_02/assets/104667864/2ed58c42-6e09-4c4e-b8e1-a1c31b37783b
+
+
+
 ## Output
 The script generates two plots:
 1. Elbow Method: Shows the Within-Cluster Sum of Squares (WCSS) for different numbers of clusters.
